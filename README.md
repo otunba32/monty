@@ -108,7 +108,7 @@ L3: unknown instruction pcx
 When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Autho
-* Naheemah Bello [GitHub](https://github.com/NaheemahBello
+* Emmanuel Abia and Comfort Ajayi Isaac [GitHub](https://github.com/Emmanuel Abia and Comfort Ajayi Isaac
 =======
 # monty
 >>>>>>> 09be4a48a075c52598c51abd5939c16782416a74
