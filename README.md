@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Monty
 
 `monty` is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.
@@ -108,3 +109,6 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Autho
 * Naheemah Bello [GitHub](https://github.com/NaheemahBello
+=======
+# monty
+>>>>>>> 09be4a48a075c52598c51abd5939c16782416a74
